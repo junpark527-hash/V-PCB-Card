@@ -24,4 +24,4 @@ I don't really know how to ask for what colors I want, so I am going to put it i
 # BOM
 * all the parts in the BOM file
 * white board color and silver surface finish
-* shipping to New Jersey, USA
+* shipping
