@@ -5,6 +5,7 @@ A PCB hacker card following the Hack Club Jam tutorial!
 
 # Schematic
 This is the schematic that I created, following the tutorial! It includes: 
+* a white board color with silver surface finish!
 * the NFC Chip
 * a ~2V LED
 * a 47Ω resistor
