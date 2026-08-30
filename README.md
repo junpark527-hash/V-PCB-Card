@@ -20,3 +20,8 @@ This is what my PCB looks like with and without the designs! I put some designs 
 
 # The Card itself
 I don't really know how to ask for what colors I want, so I am going to put it in the Bill of Materials and on here! I want the card to be white and the designs in black, and I also want the surface finish to be silver and not gold!
+
+# BOM
+* all the parts in the BOM file
+* white board color and silver surface finish
+* shipping to New Jersey, USA
